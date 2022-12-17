@@ -7,15 +7,14 @@ currently being supported with security updates.
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+| 5.1.x   | :ACTIVE:RELEASE:|
+| 5.0.x   | :UPDATE:                |
+| 4.0.x   | :UPDATE: |
+| < 4.0   | :UPDATE:                |
 
 ## Reporting a Vulnerability
 
 Use this section to tell people how to report a vulnerability.
+REPORTS: Can be filed at https://Fiirefox7.okta/support
+https://Authpro.com/Auth/Fiirefox7/support
 
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
